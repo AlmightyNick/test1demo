@@ -1,0 +1,9 @@
+Set counter = 0 
+Input number
+for loop (increment counter by 3) {
+    Print result
+    if (result is printed) {
+        repeat increment and print result
+    }
+    Print results in increasing values
+}
