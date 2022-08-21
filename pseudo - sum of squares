@@ -1,0 +1,7 @@
+FOR loop (sum of squares) {
+    Set counter to 1 
+    Break when counter reaches 10
+    if (number is a square ) do
+        print 'sum'
+    end
+}
