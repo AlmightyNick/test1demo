@@ -1,0 +1,13 @@
+Initialize running sum to 0
+User inputs values
+loop (user inputs) {
+    Sum user inputs
+}
+if (negative number is encountered) do
+    break loop
+end else do
+    print result 
+end
+if (no negative number is encountered) {
+    don't stop the loop
+}
